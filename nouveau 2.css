@@ -1,0 +1,6 @@
+h1 {text-decoration : underline; color : red}
+body{background-color: cyan;}
+h2 {text-decoration : underline;}
+#col {
+  column-count: 2;
+}
